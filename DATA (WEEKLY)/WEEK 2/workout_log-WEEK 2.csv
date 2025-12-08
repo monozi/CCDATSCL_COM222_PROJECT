@@ -1,0 +1,29 @@
+Date,Workout Type,Workout Name,Sets,Reps,Weight (kg),Volume Load (kg)
+1-Dec,Chest (compound),Flat Bench Press,2,10,30,600
+1-Dec,Chest (isolation),Pec Deck,2,10,40,800
+1-Dec,Back (horizontal pull),Cable Row,2,10,32.5,650
+1-Dec,Back (vertical pull),Wide-Grip Lat Pulldown,2,10,45,900
+1-Dec,Shoulders,Hip-height Cable Lateral Raises,2,10,5,100
+1-Dec,Triceps,Isolated Tricep Pushdown,2,10,10,200
+1-Dec,Biceps,Biceps Cable Curl,2,10,20,400
+3-Dec,Legs (compound),Back Squat,2,10,30,600
+3-Dec,Legs,Isolated Leg Extension,2,10,25,500
+3-Dec,Hamstring,Seated Hamstring Curls,2,10,40,800
+3-Dec,Hips/Glutes (abductor),Outer Thigh Abduction,2,10,20,400
+3-Dec,Hips/Adductors,Inner Thigh Abduction,2,10,25,500
+3-Dec,Calf,Calves Raise w/ Kettlebell,2,10,14,280
+3-Dec,Core,Crunches,2,10,1,20
+4-Dec,Back (vertical pull),Wide-Grip Lat Pulldown,2,10,50,1000
+4-Dec,Back (horizontal pull),Single Arm Cable Row,2,10,13,260
+4-Dec,Chest (compound),Flat Bench Press,2,10,30,600
+4-Dec,Shoulders,Hip-height Cable Lateral Raises,2,10,5,100
+4-Dec,Forearms/Grip,Cable Standing Wrist Curl,1,10,5,50
+4-Dec,Forearms/Grip,Cable Standing Wrist Reverse Curl,1,10,5,50
+4-Dec,Full-body/ Posterior chain,Trap Bar Deadlift,2,10,40,800
+6-Dec,Legs (compound),Back Squat,2,10,30,600
+6-Dec,Legs,Isolated Leg Extension,2,10,25,500
+6-Dec,Hamstring,Seated Hamstring Curls,2,10,40,800
+6-Dec,Hips/Glutes (abductor),Outer Thigh Abduction,2,10,20,400
+6-Dec,Hips/Adductors,Inner Thigh Abduction,2,10,20,400
+6-Dec,Calf,Standing Barbell Calf Raise,2,10,40,800
+6-Dec,Core,Crunches,3,10,1,30
