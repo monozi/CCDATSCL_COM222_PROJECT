@@ -1,4 +1,4 @@
-date,calories,protein_g,water_L,creatine
+date,total_calories,total_protein,water_intake,crea_intake
 12-Jan,2497,109,2.0,5g
 13-Jan,2325,165,2.0,5g
 14-Jan,2167,118,2.5,5g
