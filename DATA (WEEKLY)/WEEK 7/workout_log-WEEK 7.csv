@@ -1,0 +1,30 @@
+date,workout_type,workout_category,workout_name,sets,reps,weight_kg,volume_load_kg,estimatedOne_repMax
+5-Jan,Chest (compound),Push,Dumbbell Bench Press,2,24,15,720,27
+5-Jan,Chest (isolation),Push,Pec Deck,2,18,36,1296,57.6
+5-Jan,Shoulders (compound),Push,Dumbbell Shoulder Press,2,26,12.5,650,23.33
+5-Jan,Shoulders (isolation),Push,Hip-height Cable Lateral Raises,2,21,5,210,8.5
+5-Jan,Biceps,Pull,Biceps Cable Curl,2,22,15,660,26
+5-Jan,Biceps,Pull,Preacher Curl Barbell,2,30,13.6,816,27.2
+7-Jan,Legs (compound),Legs,Back Squat,2,12,50,1200,70
+7-Jan,Legs (isolation),Legs,Leg Extension,2,28,50,2800,96.67
+7-Jan,Legs (isolation),Legs,Seated Hamstring Curls,2,31,50,3100,101.67
+7-Jan,Hips/Glutes (abductor),Legs,Outer Thigh Abduction,2,30,30,1800,60
+7-Jan,Hips/Adductors,Legs,Inner Thigh Abduction,2,32,30,1920,62
+7-Jan,Calves,Legs,Standing Barbell Calf Raise,2,24,40,1920,72
+7-Jan,Core,Core,Decline Crunch,2,24,1,48,1.8
+8-Jan,Chest (compound),Push,Dumbbell Incline Bench Press,2,26,15,780,28
+8-Jan,Chest (isolation),Push,Pec Deck,2,20,35,1400,58.33
+8-Jan,Back (compound),Pull,Wide-Grip Lat Pulldown,2,26,39,2028,72.8
+8-Jan,Back (compound),Pull,Seated Cable Row - V Grip,2,26,19.5,1014,36.4
+8-Jan,Triceps,Push,Isolated Tricep Pushdown,2,44,15,1320,37
+8-Jan,Triceps,Push,Overhead Triceps Extensions,2,23,20,920,35.33
+8-Jan,Biceps,Pull,EZ Bar Preacher Curl,2,25,10,500,18.33
+10-Jan,Legs (compound),Legs,Smith Machine Back Squat,2,50,27,2700,72
+10-Jan,Legs (isolation),Legs,Leg Extension,2,27,50,2700,95
+10-Jan,Legs (isolation),Legs,Seated Hamstring Curls,2,26,50,2600,93.33
+10-Jan,Hips/Glutes (abductor),Legs,Cable Hip Abduction,2,22,14,616,24.27
+10-Jan,Hamstring/Glutes,Legs,Dumbbell Deadlift,2,24,12.5,600,22.5
+10-Jan,Forearms/Grip,Pull,Seated Barbell Wrist Extension,2,24,13.7,657.6,24.66
+10-Jan,Forearms/Grip,Pull,Seated Barbell Reverse Wrist Extension,2,24,13.7,657.6,24.66
+10-Jan,Core,Core,Reverse Crunch,2,25,1,50,1.83
+10-Jan,Traps,Pull,Dumbbell Shrugs,2,30,15,900,30
