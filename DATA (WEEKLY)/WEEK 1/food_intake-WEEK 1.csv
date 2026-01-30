@@ -1,4 +1,4 @@
-Date,Total Calories (cal),Total Protein (g),Water Intake (L),Crea Intake (g)
+date,total_calories,total_protein,water_intake,crea_intake
 24-Nov,1102,22,2,5
 25-Nov,1171,60,2.5,5
 26-Nov,2831,104,2,5
@@ -6,3 +6,4 @@ Date,Total Calories (cal),Total Protein (g),Water Intake (L),Crea Intake (g)
 28-Nov,1120,31,3,5
 29-Nov,795,24,2.5,5
 30-Nov,1080,63,2.5,5
+
