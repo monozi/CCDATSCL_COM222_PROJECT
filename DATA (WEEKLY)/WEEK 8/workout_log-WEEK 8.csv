@@ -1,0 +1,36 @@
+date,workout_category,workout_type,workout_name,sets,reps,weight_kg,volume_load_kg,estimated_one_repMax
+12-Jan,Push,Chest (compound),Iso-Lateral Chest Press Machine,2,24,27.0,1296.0,48.6
+12-Jan,Push,Chest (compound),Chest Press Machine,2,24,32.0,1536.0,57.6
+12-Jan,Push,Shoulders (compound),Seated Shoulder Press Machine,2,35,27.0,1890.0,58.5
+12-Jan,Push,Shoulders (isolation),Hip-height Cable Lateral Raises,2,40,5.0,400.0,11.67
+12-Jan,Push,Triceps,Tricep Rope Pushdown,2,26,23.0,1196.0,42.93
+12-Jan,Push,Triceps,Overhead Triceps Extensions,2,24,23.0,1104.0,41.4
+12-Jan,Pull,Traps,Dumbbell Shrugs,2,30,15.0,900.0,30.0
+13-Jan,Pull,Back (compound),Wide-Grip Lat Pulldown,2,20,39.0,1560.0,65.0
+13-Jan,Pull,Back (compound),Close-Grip Lat Pulldown,2,24,32.5,1560.0,58.5
+13-Jan,Pull,Back (compound),Single Arm Cable Row,2,52,13.0,1352.0,35.53
+13-Jan,Pull,Back (compound),Wide-Grip Seated Cable Row,2,24,32.2,1545.6,57.96
+13-Jan,Push,Shoulders (isolation),Rear Delt Reverse Fly Machine,2,18,20.0,720.0,32.0
+13-Jan,Pull,Biceps,Seated Dumbbell Incline Curl,2,11,8.0,176.0,10.93
+13-Jan,Pull,Biceps,Cable Rope Hammer Curl,2,24,20.0,960.0,36.0
+14-Jan,Legs,Legs (compound),Smith Machine Back Squat,2,24,40.0,1920.0,72.0
+14-Jan,Legs,Legs (isolation),Leg Extension,2,30,55.0,3300.0,110.0
+14-Jan,Legs,Legs (isolation),Seated Hamstring Curls,2,29,60.0,3480.0,118.0
+14-Jan,Legs,Hips/Glutes (abductor),Outer Thigh Abduction,2,24,30.0,1440.0,54.0
+14-Jan,Legs,Hips/Adductors,Inner Thigh Abduction,2,29,30.0,1740.0,59.0
+14-Jan,Legs,Calves,Standing Barbell Calf Raise,2,24,40.0,1920.0,72.0
+14-Jan,Core,Core,Decline Crunch,2,17,1.0,34.0,1.57
+16-Jan,Push,Chest (compound),Dumbbell Bench Press,2,22,15.0,660.0,26.0
+16-Jan,Push,Chest (isolation),Pec Deck,2,19,35.0,1330.0,57.17
+16-Jan,Push,Shoulders (compound),Dumbbell Shoulder Press,2,22,15.0,660.0,26.0
+16-Jan,Push,Shoulders (isolation),Hip-height Cable Lateral Raises,2,42,5.0,420.0,12.0
+16-Jan,Push,Triceps,Tricep Rope Pushdown,2,27,25.0,1350.0,47.5
+16-Jan,Pull,Biceps,Preacher Curl Barbell,2,20,15.0,600.0,25.0
+16-Jan,Pull,Traps,Barbell Shrugs,2,22,50.0,2200.0,86.67
+17-Jan,Legs,Legs (compound),Smith Machine Back Squat,2,24,50.0,2400.0,90.0
+17-Jan,Legs,Legs (isolation),Leg Extension,2,29,59.0,3422.0,116.03
+17-Jan,Legs,Legs (isolation),Seated Hamstring Curls,2,23,60.0,2760.0,106.0
+17-Jan,Legs,Hips/Glutes (abductor),Wide-Stance Leg Press Machine,2,24,50.0,2400.0,90.0
+17-Jan,Legs,Calves,Standing Barbell Calf Raise,2,22,50.0,2200.0,86.67
+17-Jan,Core,Core,Cable Crunch,2,20,50.0,2000.0,83.33
+17-Jan,Pull,Forearms/Grip,Seated Barbell Wrist Extension,2,20,9.0,360.0,15.0
