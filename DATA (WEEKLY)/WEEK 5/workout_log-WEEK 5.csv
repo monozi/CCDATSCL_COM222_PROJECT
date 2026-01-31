@@ -1,25 +1,26 @@
-Date,Workout Type,Workout Name,Sets,Reps,Weight (kg),Volume Load (kg)
-22-Dec,Chest (compound),Dumbbell Bench Press,2,22,12.5,550
-22-Dec,Chest (isolation),Pec Deck,2,19,30,1140
-22-Dec,Shoulders (compound),Dumbbell Shoulder Press,2,22,12.5,550
-22-Dec,Shoulders (isolation),Hip-height Cable Lateral Raises,2,22,10,440
-22-Dec,Biceps,Biceps Cable Curl,2,20,30,1200
-22-Dec,Triceps,Overhead Triceps Extensions,2,19,25,950
-23-Dec,Legs (compound),Back Squat,2,20,40,1600
-23-Dec,Legs (isolation),Leg Extension,2,35,43,3010
-23-Dec,Legs (isolation),Seated Hamstring Curls,2,33,43,2838
-23-Dec,Core,Reverse Crunch,2,25,1,50
-23-Dec,Traps,Kettlebell Shrugs,2,20,40,1600
-26-Dec,Chest (isolation),Pec Deck,2,24,32,1536
-26-Dec,Shoulders (compound),Dumbbell Shoulder Press,2,18,12.5,450
-26-Dec,Shoulders (isolation),Hip-height Cable Lateral Raises,2,16,5,160
-26-Dec,Back (compound),Wide-Grip Lat Pulldown,2,21,45,1890
-26-Dec,Back (compound),Iso-Lateral Low Row,2,53,30,3180
-27-Dec,Legs (compound),Back Squat,2,20,40,1600
-27-Dec,Legs (isolation),Leg Extension,2,27,45,2430
-27-Dec,Legs (isolation),Lying Hamstring Curls,2,12,30,720
-27-Dec,Calves,Leg Press Calf Raise,2,24,36,1728
-27-Dec,Legs (compound),Dumbbell Wide Squat,2,25,20,1000
-27-Dec,Core,Crunches,2,25,1,50
-27-Dec,Forearms/Grip,Seated Dumbbell Wrist Curls,2,20,10,400
-27-Dec,Forearms/Grip,Seated Dumbbell Reverse Wrist Curls,2,20,10,400
+date,workout_category,workout_type,workout_name,sets,reps,weight_kg,volume_load_kg,estimated_one_repMax
+22-Dec,Push,Chest (compound),Dumbbell Bench Press,2,22,12.5,550,21.67
+22-Dec,Push,Chest (isolation),Pec Deck,2,19,30.0,1140,49.0
+22-Dec,Push,Shoulders (compound),Dumbbell Shoulder Press,2,22,12.5,550,21.67
+22-Dec,Push,Shoulders (isolation),Hip-height Cable Lateral Raises,2,22,10.0,440,17.33
+22-Dec,Pull,Biceps,Biceps Cable Curl,2,20,30.0,1200,50.0
+22-Dec,Push,Triceps,Overhead Triceps Extensions,2,19,25.0,950,40.83
+23-Dec,Legs,Legs (compound),Back Squat,2,20,40.0,1600,66.67
+23-Dec,Legs,Legs (isolation),Leg Extension,2,35,43.0,3010,93.17
+23-Dec,Legs,Legs (isolation),Seated Hamstring Curls,2,33,43.0,2838,90.3
+23-Dec,Core,Core,Reverse Crunch,2,25,1.0,50,1.83
+23-Dec,Pull,Traps,Kettlebell Shrugs,2,20,40.0,1600,66.67
+26-Dec,Push,Chest (compound),Chest Press Machine,2,20,30.0,1200,50.0
+26-Dec,Push,Chest (isolation),Pec Deck,2,24,32.0,1536,57.6
+26-Dec,Push,Shoulders (compound),Dumbbell Shoulder Press,2,18,12.5,450,20.0
+26-Dec,Push,Shoulders (isolation),Hip-height Cable Lateral Raises,2,16,5.0,160,7.67
+26-Dec,Pull,Back (compound),Wide-Grip Lat Pulldown,2,21,45.0,1890,76.5
+26-Dec,Pull,Back (compound),Iso-Lateral Low Row,2,53,30.0,3180,83.0
+27-Dec,Legs,Legs (compound),Back Squat,2,20,40.0,1600,66.67
+27-Dec,Legs,Legs (isolation),Leg Extension,2,27,45.0,2430,85.5
+27-Dec,Legs,Legs (isolation),Lying Hamstring Curls,2,12,30.0,720,42.0
+27-Dec,Legs,Calves,Leg Press Calf Raise,2,24,36.0,1728,64.8
+27-Dec,Legs,Legs (compound),Dumbbell Wide Squat,2,25,20.0,1000,36.67
+27-Dec,Core,Core,Crunches,2,25,1.0,50,1.83
+27-Dec,Pull,Forearms/Grip,Seated Dumbbell Wrist Curls,2,20,10.0,400,16.67
+27-Dec,Pull,Forearms/Grip,Seated Dumbbell Reverse Wrist Curls,2,20,10.0,400,16.67
