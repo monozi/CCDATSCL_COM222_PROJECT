@@ -1,0 +1,25 @@
+date,workout_category,workout_type,workout_name,sets,reps,weight_kg,volume_load_kg,estimated_one_repMax
+24-Nov,Push,Chest (compound),Flat Bench Press,2,20,20,800,33.33
+24-Nov,Push,Chest (isolation),Pec Deck,2,20,20,800,33.33
+24-Nov,Pull,Back (vertical pull),Wide-Grip Lat Pulldown,2,20,20,800,33.33
+24-Nov,Pull,Back (horizontal pull),Cable Row,2,20,32.5,1300,54.17
+24-Nov,Push,Triceps,Front and Back Triceps Pushdown,2,12,15,360,21
+24-Nov,Pull,Biceps,Biceps Cable Curl,2,20,20,800,33.33
+25-Nov,Legs,Legs (compound),Back Squat,2,24,20,960,36
+25-Nov,Legs,Legs (isolation),Leg Extension,2,24,30,1440,54
+25-Nov,Legs,Legs (isolation),Seated Hamstring Curls,2,24,30,1440,54
+25-Nov,Legs,Hips/Glutes,Outer Thigh Abduction,2,24,15,720,27
+25-Nov,Legs,Hips/Adductors,Inner Thigh Abduction,2,24,15,720,27
+25-Nov,Core,Core,Crunches,2,20,1,40,1.67
+26-Nov,Push,Chest (upper-focus),Incline Dumbbell Bench Press,2,20,20,800,33.33
+26-Nov,Push,Shoulders,Dumbbell Shoulder Press,2,20,7.5,300,12.5
+26-Nov,Push,Shoulders,Hip-height Cable Lateral Raises,2,40,5,400,11.67
+26-Nov,Push,Triceps,Isolated Tricep Pushdown,2,20,15,600,25
+26-Nov,Pull,Biceps,Biceps Cable Curl,2,20,20,800,33.33
+27-Nov,Legs,Legs (compound),Back Squat,2,20,20,800,33.33
+27-Nov,Legs,Legs (compound),Goblet Squat,2,20,7.5,300,12.5
+27-Nov,Legs,Legs (isolation),Seated Hamstring Curls,2,20,40,1600,66.67
+27-Nov,Legs,Hips/Glutes(abductor),Outer Thigh Abduction,2,20,20,800,33.33
+27-Nov,Legs,Hips/Adductors,Inner Thigh Abduction,2,20,20,800,33.33
+27-Nov,Push,Forearms/Grip,Forearm Cable Pushdown,2,20,20,800,33.33
+27-Nov,Pull,Traps,Trap Bar Shrugs,2,20,40,1600,66.67
