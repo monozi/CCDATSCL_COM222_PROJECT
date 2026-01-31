@@ -1,0 +1,28 @@
+date,workout_category,workout_type,workout_name,sets,reps,weight_kg,volume_load_kg,estimated_one_repMax
+19-Jan,Push,Chest (compound),Cable Fly Crossovers,2,20,15.0,600,25.0
+19-Jan,Push,Chest (compound),Dumbbell Bench Press,2,22,15.0,660,26.0
+19-Jan,Push,Shoulders (compound),Dumbbell Shoulder Press,2,20,15.0,600,25.0
+19-Jan,Push,Shoulders (isolation),Hip-height Cable Lateral Raises,2,40,5.0,400,11.67
+19-Jan,Push,Triceps,Tricep Rope Pushdown,2,22,25.0,1100,43.33
+19-Jan,Push,Triceps,Overhead Triceps Extensions,2,26,25.0,1300,46.67
+21-Jan,Pull,Back (compound),Wide-Grip Lat Pulldown,2,21,39.0,1638,66.3
+21-Jan,Pull,Back (compound),Seated Cable Row - V Grip,2,21,26.0,1092,44.2
+21-Jan,Pull,Back (compound),Wide-Grip Seated Cable Row,2,21,26.0,1092,44.2
+21-Jan,Pull,Shoulders (isolation),Rear Delt Reverse Fly Machine,2,20,20.0,800,33.33
+21-Jan,Pull,Biceps,Seated Dumbbell Incline Curl,2,14,7.0,196,10.27
+21-Jan,Pull,Biceps,Cable Rope Hammer Curl,2,24,20.0,960,36.0
+21-Jan,Pull,Traps,Barbell Shrugs,2,24,50.0,2400,90.0
+22-Jan,Legs,Legs (compound),Horizontal Leg Press Machine,2,27,84.5,4563,160.55
+22-Jan,Legs,Legs (isolation),Leg Extension,2,30,60.0,3600,120.0
+22-Jan,Legs,Legs (isolation),Seated Hamstring Curls,2,30,65.0,3900,130.0
+22-Jan,Legs,Hips/Glutes (abductor),Outer Thigh Abduction,2,24,30.0,1440,54.0
+22-Jan,Legs,Hips/Adductors,Inner Thigh Abduction,2,25,35.0,1750,64.17
+22-Jan,Legs,Calves,Standing Barbell Calf Raise,2,20,50.0,2000,83.33
+22-Jan,Core,Core,Reverse Crunch,2,23,1.0,46,1.77
+23-Jan,Push,Chest (compound),Dumbbell Incline Bench Press,2,18,17.5,630,28.0
+23-Jan,Push,Chest (isolation),Pec Deck,2,20,30.0,1200,50.0
+23-Jan,Pull,Back (compound),Wide-Grip Lat Pulldown,2,20,39.0,1560,65.0
+23-Jan,Pull,Back (compound),Seated Cable Row - V Grip,2,22,26.0,1144,45.07
+23-Jan,Push,Triceps,Isolated Tricep Pushdown,2,38,10.0,760,22.67
+23-Jan,Pull,Biceps,Biceps Cable Curl,2,19,30.0,1140,49.0
+23-Jan,Pull,Traps,Barbell Shrugs,2,24,50.0,2400,90.0
