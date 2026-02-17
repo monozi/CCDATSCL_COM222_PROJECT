@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Workout](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Workout]([https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8))
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
