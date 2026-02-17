@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Workout]([(https://media.tenor.com/vnZXVC8fuA8AAAAi/aba-saitama-saitama-aba.gif))
+![Saitama Workout](https://media.tenor.com/vnZXVC8fuA8AAAAi/aba-saitama-saitama-aba.gif)
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
